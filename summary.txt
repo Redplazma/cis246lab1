@@ -1,3 +1,67 @@
-Lab 2 Summary
+Lab 1 Summary
 
-test
+pwd SAME
+
+ls Different directories
+
+uname SAME
+
+ls -a Displays simular information but structured differently
+
+ls --all Displays simular information but structured differently
+ 
+ls -l Simular but different directories
+
+ls -r Simular but different directories
+
+ls -alr Simular but different directories
+
+ls -a -l -r Simular but different directories
+
+uname -a Cent does not mention the its flavor while mint acknowledges its mint
+
+uname -s SAME
+
+uname -n Cent reports the local host while mint says mint
+
+uname -m SAME
+
+uname -p SAME
+
+uname -i SAME
+
+uname -o SAME
+
+ls -rw 40 Simular but different directories
+
+ls -wr 40 SAME INVALID
+
+ls -w 40 -I "T*" Simular but different directories
+
+ls --all -rl Simular format but different contents
+
+ls --color=never Simular but different directories no color blue
+
+touch SAME
+
+rm SAME
+
+cp SAME
+
+echo SAME
+
+alias SAME
+
+ec SAME NOT FOUND
+
+type SAME
+
+man ls Brings up manuals for systems (Didnt look at differences in manuals as im sure their are many)
+
+man 5 passwrd SAME NO ENTRY
+
+man -k passwrd Mint reports nothing appropriate while Cent says no such file or directory
+
+man -f passwrd SAME "Nothing Appropriate"
+
+whatis passwd COMPLETELY DIFFERENT REPORTS AND INFORMATION
